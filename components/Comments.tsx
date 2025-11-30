@@ -29,9 +29,9 @@ export function Comments() {
       <h2 style={{ marginBottom: '1rem' }}>💬 评论区</h2>
       <Giscus
         repo="victkk/FDU-Sharing"
-        repoId="R_kgDONXmX4w"
+        repoId="R_kgDOQfXLpA"
         category="General"
-        categoryId="DIC_kwDONXmX484ClHfU"
+        categoryId="DIC_kwDOQfXLpM4CzMxq"
         mapping="pathname"
         strict="0"
         reactionsEnabled="1"
